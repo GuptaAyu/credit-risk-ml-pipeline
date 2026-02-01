@@ -1,0 +1,40 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+
+# Databases
+*.db
+
+# Logs
+*_Logs/
+logs/
+
+# Batch & archive folders
+Training_Batch_Files/
+Prediction_Batch_Files/
+TrainingArchiveBadData/
+PredictionArchivedBadData/
+Prediction_Output_File/
+Training_Archive/
+Prediction_Archive/
+
+# Temporary files
+*.tmp
+*~
